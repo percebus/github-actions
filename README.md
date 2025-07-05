@@ -12,7 +12,7 @@ GitHub re-usable Actions &amp; Workflows
 
 | Name                                                        | naming | CI  | CodeQL | dependency-review | pull_request | Trigger 1x | Tests | semantic-release |
 | ----------------------------------------------------------- | ------ | --- | ------ | ----------------- | ------------ | ---------- | ----- | ---------------- |
-| [common](https://github.com/percebus/github-actions-common) | ✅     | ✅  | ✅     | ✅                | same         | ✅         | ✅    | ❌               |
+| [common](https://github.com/percebus/github-actions-common) | ✅     | ✅  | ✅     | ✅                | ⚠️           | ✅         | ✅    | ❌               |
 
 ### Node.js
 
