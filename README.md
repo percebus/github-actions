@@ -27,17 +27,17 @@ GitHub re-usable Actions &amp; Workflows
 | [pip](https://github.com/percebus/github-actions-pip)       | ✅     | ✅  | ❌     | ❔                | ❌           | ✅         | ✅    | ❌               |
 | [pipx](https://github.com/percebus/github-actions-pipx)     | ✅     | ✅  | ❌     | ❌                | ❌           | ✅         | ✅    | ❌               |
 | [poetry](https://github.com/percebus/github-actions-poetry) | ✅     | ✅  | ❌     | N/A               | ❌           | ❌         | ✅    | ❌               |
-| [uv](https://github.com/percebus/github-actions-uv)         | ✅     | ✅  | ❌     | N/A               | ✅           | ✅         | ✅    | ❌               |
+| [uv](https://github.com/percebus/github-actions-uv)         | ✅     | ✅  | ❌     | N/A               | ❌           | ✅         | ✅    | ❌               |
 
 ### Containerization
 
 | Name                                                                            | naming | CI  | CodeQL | dependency-review | pull_request | Trigger 1x | Tests | semantic-release |
 | ------------------------------------------------------------------------------- | ------ | --- | ------ | ----------------- | ------------ | ---------- | ----- | ---------------- |
-| [containerization](https://github.com/percebus/github-actions-containerization) | ✅     | ✅  | ❌     | ❔                | ✅           | ❌         | ✅    | ❌               |
-| [docker](https://github.com/percebus/github-actions-docker)                     | ❌     | ✅  | ❌     |                   | ✅           |            | ✅    | ❌               |
+| [containerization](https://github.com/percebus/github-actions-containerization) | ✅     | ✅  | ❌     | ❔                | ❌           | ❌         | ✅    | ❌               |
+| [docker](https://github.com/percebus/github-actions-docker)                     | ❌     | ✅  | ❌     | ❔                | ❌           |            | ✅    | ❌               |
 
 ### Testing
 
 | Name                                                          | naming | CI  | CodeQL | dependency-review | pull_request | Trigger 1x | Tests | semantic-release |
 | ------------------------------------------------------------- | ------ | --- | ------ | ----------------- | ------------ | ---------- | ----- | ---------------- |
-| [testing](https://github.com/percebus/github-actions-testing) |        | ✅  | ❌     |                   | ✅           | ❌         | ✅    | ❌               |
+| [testing](https://github.com/percebus/github-actions-testing) | ✅     | ✅  | ❌     | N/A               | ✅           | ❌         | ✅    | ❌               |
