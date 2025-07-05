@@ -48,4 +48,4 @@ GitHub re-usable Actions &amp; Workflows
 
 ### Related
 
-- [percebus/commons](https://github.com/percebus/commons): Common scripts and tools for DevOps
+- [percebus/commons](https://github.com/percebus/commons): Common scripts and tools for DevOps.
