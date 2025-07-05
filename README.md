@@ -12,7 +12,7 @@ GitHub re-usable Actions &amp; Workflows
 
 | Name                                                        | naming | CI  | CodeQL | dependency-review | pull_request | Trigger 1x | Tests | semantic-release |
 | ----------------------------------------------------------- | ------ | --- | ------ | ----------------- | ------------ | ---------- | ----- | ---------------- |
-| [common](https://github.com/percebus/github-actions-common) | ✅     | ✅  | ✅     | ✅                | same         | ✅         | ✅    | ❌               |
+| [common](https://github.com/percebus/github-actions-common) | ✅     | ✅  | ✅     | ✅                | ⚠️           | ✅         | ✅    | ❌               |
 
 ### Node.js
 
@@ -45,3 +45,7 @@ GitHub re-usable Actions &amp; Workflows
 | Name                                                          | naming | CI  | CodeQL | dependency-review | pull_request | Trigger 1x | Tests | semantic-release |
 | ------------------------------------------------------------- | ------ | --- | ------ | ----------------- | ------------ | ---------- | ----- | ---------------- |
 | [testing](https://github.com/percebus/github-actions-testing) | ✅     | ✅  | ❌     | N/A               | ✅           | ❌         | ✅    | ❌               |
+
+### Related
+
+- [percebus/commons](https://github.com/percebus/commons): Common scripts and tools for DevOps.
