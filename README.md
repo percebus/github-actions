@@ -30,7 +30,7 @@ GitHub re-usable Actions &amp; Workflows
 | [python](https://github.com/percebus/github-actions-python) | ❌     | N/A               | ❌           | ❌         | ❌               |
 | [pip](https://github.com/percebus/github-actions-pip)       | ❌     | ❔                | ❌           | ✅         | ❌               |
 | [pipx](https://github.com/percebus/github-actions-pipx)     | ❌     | ❌                | ❌           | ✅         | ❌               |
-| [poetry](https://github.com/percebus/github-actions-poetry) | ❌     | N/A               | ❌           | ❌         | ❌               |
+| [poetry](https://github.com/percebus/github-actions-poetry) | ❌     | N/A               | ❌           | ✅         | ❌               |
 | [uv](https://github.com/percebus/github-actions-uv)         | ❌     | N/A               | ❌           | ✅         | ❌               |
 
 ### Containerization
@@ -38,7 +38,7 @@ GitHub re-usable Actions &amp; Workflows
 | Name                                                                            | naming | CodeQL | dependency-review | pull_request | Trigger 1x | Tests | semantic-release |
 | ------------------------------------------------------------------------------- | ------ | ------ | ----------------- | ------------ | ---------- | ----- | ---------------- |
 | [containerization](https://github.com/percebus/github-actions-containerization) | ✅     | ❌     | ❔                | ❌           | ❌         | ✅    | ❌               |
-| [docker](https://github.com/percebus/github-actions-docker)                     | ❌     | ❌     | ❔                | ❌           |            | ✅    | ❌               |
+| [docker](https://github.com/percebus/github-actions-docker)                     | ❌     | ❌     | ❔                | ❌           | ❌         | ✅    | ❌               |
 
 ### Testing
 
