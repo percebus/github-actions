@@ -10,9 +10,9 @@ GitHub re-usable Actions &amp; Workflows
 
 ### Common
 
-| Name                                                        | dependency-review | pull_request | semantic-release |
-| ----------------------------------------------------------- | ----------------- | ------------ | ---------------- |
-| [common](https://github.com/percebus/github-actions-common) | ✅                | ⚠️           | ❌               |
+| Name                                                        | semantic-release |
+| ----------------------------------------------------------- | ---------------- |
+| [common](https://github.com/percebus/github-actions-common) | ❌               |
 
 ### Node.js
 
