@@ -10,19 +10,19 @@ GitHub re-usable Actions &amp; Workflows
 
 ### Commons
 
-| Name                                                                       | semantic-release | comments                        |
-| -------------------------------------------------------------------------- | ---------------- | ------------------------------- |
-| [github-actions-common](https://github.com/percebus/github-actions-common) | ❌               | checkout, etc.                  |
-| [commons](https://github.com/percebus/commons)                             | ❌               | `scripts/`, `references/`, etc. |
+| Name                                                                       | CodeQL | dependency-review | semantic-release | comments                        |
+| -------------------------------------------------------------------------- | ------ | ----------------- | ---------------- | ------------------------------- |
+| [github-actions-common](https://github.com/percebus/github-actions-common) | ✅     | ✅                | ❌               | checkout, etc.                  |
+| [commons](https://github.com/percebus/commons)                             | ✅     | N/A               | ❌               | `scripts/`, `references/`, etc. |
 
 ### Node.js
 
-| Name                                                      | CodeQL | dependency-review | pull_request | Trigger 1x | semantic-release |
-| --------------------------------------------------------- | ------ | ----------------- | ------------ | ---------- | ---------------- |
-| [`node`](https://github.com/percebus/github-actions-node) | ✅     | N/A               | ✅           | ✅         | ❌               |
-| [`npm`](https://github.com/percebus/github-actions-npm)   | ✅     | ✅                | ✅           | ✅         | ❌               |
-| [`nvm`](https://github.com/percebus/github-actions-nvm)   | ❌     | N/A               | ⚠️           | ✅         | ❌               |
-| [`yarn`](https://github.com/percebus/github-actions-yarn) | ❌     | ✅                | ✅           | ❌         | ❌               |
+| Name                                                      | CodeQL | dependency-review | Trigger 1x | semantic-release |
+| --------------------------------------------------------- | ------ | ----------------- | ---------- | ---------------- |
+| [`node`](https://github.com/percebus/github-actions-node) | ✅     | N/A               | ✅         | ❌               |
+| [`npm`](https://github.com/percebus/github-actions-npm)   | ✅     | ✅                | ✅         | ❌               |
+| [`nvm`](https://github.com/percebus/github-actions-nvm)   | ❌     | N/A               | ✅         | ❌               |
+| [`yarn`](https://github.com/percebus/github-actions-yarn) | ❌     | ✅                | ❌         | ❌               |
 
 ### Python
 
