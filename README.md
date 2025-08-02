@@ -43,6 +43,6 @@ GitHub re-usable Actions &amp; Workflows
 
 ### Testing
 
-| Name                                                          | CodeQL | Trigger 1x | semantic-release |
-| ------------------------------------------------------------- | ------ | ---------- | ---------------- |
-| [testing](https://github.com/percebus/github-actions-testing) | ❌     | ❌         | ❌               |
+| Name                                                          | CodeQL | semantic-release |
+| ------------------------------------------------------------- | ------ | ---------------- |
+| [testing](https://github.com/percebus/github-actions-testing) | ❌     | ❌               |
