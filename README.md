@@ -17,12 +17,12 @@ GitHub re-usable Actions &amp; Workflows
 
 ### Node.js
 
-| Name                                                      | `CodeQL` | `dependency-review` | Trigger 1x | `semantic-release` |
-| --------------------------------------------------------- | -------- | ------------------- | ---------- | ------------------ |
-| [`node`](https://github.com/percebus/github-actions-node) | ✅       | N/A                 | ✅         | ❌                 |
-| [`npm`](https://github.com/percebus/github-actions-npm)   | ✅       | ✅                  | ✅         | ❌                 |
-| [`nvm`](https://github.com/percebus/github-actions-nvm)   | ❌       | N/A                 | ✅         | ❌                 |
-| [`yarn`](https://github.com/percebus/github-actions-yarn) | ❌       | ✅                  | ❌         | ❌                 |
+| Name                                                      | `CodeQL` | `dependency-review` | `semantic-release` |
+| --------------------------------------------------------- | -------- | ------------------- | ------------------ |
+| [`node`](https://github.com/percebus/github-actions-node) | ✅       | N/A                 | ❌                 |
+| [`npm`](https://github.com/percebus/github-actions-npm)   | ✅       | ✅                  | ❌                 |
+| [`nvm`](https://github.com/percebus/github-actions-nvm)   | ❌       | N/A                 | ❌                 |
+| [`yarn`](https://github.com/percebus/github-actions-yarn) | ❌       | ✅                  | ❌                 |
 
 ### Python
 
