@@ -1,8 +1,8 @@
 # github-actions
 
-[`LICENSE`](./LICENSE.md) | [`TODO`s](./TODO.md)
-
 [![[C]ontinuous [I]ntegration](https://github.com/percebus/github-actions/actions/workflows/always.yml/badge.svg)](https://github.com/percebus/github-actions/actions/workflows/always.yml) [![Pull Request](https://github.com/percebus/github-actions/actions/workflows/pull_request.yml/badge.svg?event=pull_request)](https://github.com/percebus/github-actions/actions/workflows/pull_request.yml)
+
+[`LICENSE`](./LICENSE.md) | [`TODO`s](./TODO.md)
 
 GitHub re-usable Actions &amp; Workflows
 
@@ -29,9 +29,9 @@ GitHub re-usable Actions &amp; Workflows
 | Name                                                          | `CodeQL` | `dependency-review` | `semantic-release` |
 | ------------------------------------------------------------- | -------- | ------------------- | ------------------ |
 | [`python`](https://github.com/percebus/github-actions-python) | ✅       | N/A                 | ❌                 |
-| [`pip`](https://github.com/percebus/github-actions-pip)       | ❌       | ❔                  | ❌                 |
+| [`pip`](https://github.com/percebus/github-actions-pip)       | ✅       | ❔                  | ❌                 |
 | [`pipx`](https://github.com/percebus/github-actions-pipx)     | ✅       | ✅                  | ❌                 |
-| [`poetry`](https://github.com/percebus/github-actions-poetry) | ❌       | N/A                 | ❌                 |
+| [`poetry`](https://github.com/percebus/github-actions-poetry) | ✅       | N/A                 | ❌                 |
 | [`uv`](https://github.com/percebus/github-actions-uv)         | ❌       | N/A                 | ❌                 |
 
 ### Containerization
