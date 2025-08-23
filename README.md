@@ -38,7 +38,7 @@ GitHub re-usable Actions &amp; Workflows
 
 | Name                                                                            | naming | `CodeQL` | `dependency-review` | pull_request | Trigger 1x | `semantic-release` |
 | ------------------------------------------------------------------------------- | ------ | -------- | ------------------- | ------------ | ---------- | ------------------ |
-| [containerization](https://github.com/percebus/github-actions-containerization) | ✅     | ❌       | ❔                  | ❌           | ❌         | ❌                 |
+| [containerization](https://github.com/percebus/github-actions-containerization) | ✅     | ✅       | ❔                  | ✅           | ✅         | ❌                 |
 | [`docker`](https://github.com/percebus/github-actions-docker)                   | ❌     | ❌       | ❔                  | ❌           | ❌         | ❌                 |
 
 ### Testing
