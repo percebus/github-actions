@@ -12,7 +12,7 @@ GitHub re-usable Actions &amp; Workflows
 
 | Name                                                                                 | `CodeQL` | `dependency-review` | `semantic-release` | comments       |
 | ------------------------------------------------------------------------------------ | -------- | ------------------- | ------------------ | -------------- |
-| [`github-actions-compliance`](https://github.com/percebus/github-actions-compliance) | ⚠️       | ✅                  | ❌                 | checkout, etc. |
+| [`github-actions-compliance`](https://github.com/percebus/github-actions-compliance) | ✅       | ✅                  | ❌                 | checkout, etc. |
 
 ### Commons
 
