@@ -19,7 +19,7 @@ GitHub re-usable Actions &amp; Workflows
 | Name                                                                         | `CodeQL` | `dependency-review` | `semantic-release` | comments                        |
 | ---------------------------------------------------------------------------- | -------- | ------------------- | ------------------ | ------------------------------- |
 | [`github-actions-common`](https://github.com/percebus/github-actions-common) | ✅       | ⚠️`DEPRECATED`      | ❌                 | checkout, etc.                  |
-| [commons](https://github.com/percebus/commons)                               | ⚠️       | N/A                 | ❌                 | `scripts/`, `references/`, etc. |
+| [commons](https://github.com/percebus/commons)                               | ✅       | N/A                 | ❌                 | `scripts/`, `references/`, etc. |
 
 ### Node.js
 
