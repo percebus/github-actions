@@ -28,7 +28,7 @@ GitHub re-usable Actions &amp; Workflows
 | [`node`](https://github.com/percebus/github-actions-node) | ⚠️       | N/A                 | ❌                 |
 | [`npm`](https://github.com/percebus/github-actions-npm)   | ✅       | ✅                  | ❌                 |
 | [`nvm`](https://github.com/percebus/github-actions-nvm)   | ❌       | N/A                 | ❌                 |
-| [`yarn`](https://github.com/percebus/github-actions-yarn) | ❌       | ⚠️                  | ❌                 |
+| [`yarn`](https://github.com/percebus/github-actions-yarn) | ✅       | ✅                  | ❌                 |
 
 ### Python
 
