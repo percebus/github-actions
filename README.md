@@ -51,4 +51,4 @@ GitHub re-usable Actions &amp; Workflows
 
 | Name                                                          | CodeQL | `semantic-release` |
 | ------------------------------------------------------------- | ------ | ------------------ |
-| [testing](https://github.com/percebus/github-actions-testing) | ❌     | ❌                 |
+| [testing](https://github.com/percebus/github-actions-testing) | ✅     | ❌                 |
