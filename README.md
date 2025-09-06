@@ -38,7 +38,7 @@ GitHub re-usable Actions &amp; Workflows
 | [`pip`](https://github.com/percebus/github-actions-pip)       | ⚠️     | ❔                  | ❌                 |
 | [`pipx`](https://github.com/percebus/github-actions-pipx)     | ✅     | ✅                  | ❌                 |
 | [`poetry`](https://github.com/percebus/github-actions-poetry) | ⚠️     | N/A                 | ❌                 |
-| [`uv`](https://github.com/percebus/github-actions-uv)         | ⚠️     | N/A                 | ❌                 |
+| [`uv`](https://github.com/percebus/github-actions-uv)         | ✅     | N/A                 | ❌                 |
 
 ### Containerization
 
