@@ -34,7 +34,7 @@ GitHub re-usable Actions &amp; Workflows
 
 | Name                                                          | CodeQL | `dependency-review` | `semantic-release` |
 | ------------------------------------------------------------- | ------ | ------------------- | ------------------ |
-| [`python`](https://github.com/percebus/github-actions-python) | ⚠️     | N/A                 | ❌                 |
+| [`python`](https://github.com/percebus/github-actions-python) | ✅     | N/A                 | ❌                 |
 | [`pip`](https://github.com/percebus/github-actions-pip)       | ⚠️     | ❔                  | ❌                 |
 | [`pipx`](https://github.com/percebus/github-actions-pipx)     | ✅     | ✅                  | ❌                 |
 | [`poetry`](https://github.com/percebus/github-actions-poetry) | ⚠️     | N/A                 | ❌                 |
