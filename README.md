@@ -10,15 +10,15 @@ GitHub re-usable Actions &amp; Workflows
 
 ### Compliance
 
-| Name                                                                                 | CodeQL | `dependency-review` | `semantic-release` | comments       |
-| ------------------------------------------------------------------------------------ | ------ | ------------------- | ------------------ | -------------- |
-| [`github-actions-compliance`](https://github.com/percebus/github-actions-compliance) | ✅\*   | ✅                  | ❌                 | checkout, etc. |
+| Name                                                                                 | CodeQL | `dependency-review` | `semantic-release` | comments                            |
+| ------------------------------------------------------------------------------------ | ------ | ------------------- | ------------------ | ----------------------------------- |
+| [`github-actions-compliance`](https://github.com/percebus/github-actions-compliance) | ✅\*   | ✅                  | ❌                 | `dependency-review`, `codeql`, etc. |
 
 ### Commons
 
 | Name                                                                         | CodeQL | `dependency-review` | `semantic-release` | comments                        |
 | ---------------------------------------------------------------------------- | ------ | ------------------- | ------------------ | ------------------------------- |
-| [`github-actions-common`](https://github.com/percebus/github-actions-common) | ✅\*   | N/A                 | ❌                 | checkout, etc.                  |
+| [`github-actions-common`](https://github.com/percebus/github-actions-common) | ✅\*   | N/A                 | ❌                 | `checkout`, `ssh`, etc.         |
 | [`commons`](https://github.com/percebus/commons)                             | ✅\*   | N/A                 | ❌                 | `scripts/`, `references/`, etc. |
 
 ### Node.js
