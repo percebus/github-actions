@@ -1,6 +1,7 @@
 # github-actions
 
-[![[C]ontinuous [I]ntegration](https://github.com/percebus/github-actions/actions/workflows/always.yml/badge.svg)](https://github.com/percebus/github-actions/actions/workflows/always.yml) [![Pull Request](https://github.com/percebus/github-actions/actions/workflows/pull_request.yml/badge.svg?event=pull_request)](https://github.com/percebus/github-actions/actions/workflows/pull_request.yml)
+[![[C]ontinuous [I]ntegration](https://github.com/percebus/github-actions/actions/workflows/always.yml/badge.svg)](https://github.com/percebus/github-actions/actions/workflows/always.yml)
+[![Pull Request](https://github.com/percebus/github-actions/actions/workflows/pull_request.yml/badge.svg?event=pull_request)](https://github.com/percebus/github-actions/actions/workflows/pull_request.yml)
 
 [`LICENSE`](./LICENSE.md) | [`TODO`s](./TODO.md)
 
@@ -20,6 +21,12 @@ GitHub re-usable Actions &amp; Workflows
 | ---------------------------------------------------------------------------- | ------ | ------------------- | ------------------ | ------------------------------- |
 | [`github-actions-common`](https://github.com/percebus/github-actions-common) | ✅\*   | N/A                 | ❌                 | `checkout`, `ssh`, etc.         |
 | [`commons`](https://github.com/percebus/commons)                             | ✅\*   | N/A                 | ❌                 | `scripts/`, `references/`, etc. |
+
+### .NET
+
+| Name                                                          | CodeQL | `dependency-review` | `semantic-release` |
+| ------------------------------------------------------------- | ------ | ------------------- | ------------------ |
+| [`dotnet`](https://github.com/percebus/github-actions-dotnet) | ✅     | ❔                  | ❌                 |
 
 ### Node.js
 
