@@ -47,6 +47,12 @@ GitHub re-usable Actions &amp; Workflows
 | [`poetry`](https://github.com/percebus/github-actions-poetry) | ⚠️     | N/A                 | ❌                 |
 | [`uv`](https://github.com/percebus/github-actions-uv)         | ✅\*   | N/A                 | ❌                 |
 
+### Testing
+
+| Name                                                          | CodeQL | `semantic-release` |
+| ------------------------------------------------------------- | ------ | ------------------ |
+| [testing](https://github.com/percebus/github-actions-testing) | ✅\*   | ❌                 |
+
 ### Containerization
 
 | Name                                                                            | CodeQL | `dependency-review` | `semantic-release` |
@@ -54,8 +60,8 @@ GitHub re-usable Actions &amp; Workflows
 | [containerization](https://github.com/percebus/github-actions-containerization) | ✅\*   | ❔                  | ❌                 |
 | [`docker`](https://github.com/percebus/github-actions-docker)                   | ✅\*   | ❔                  | ❌                 |
 
-### Testing
+#### Orchestration
 
-| Name                                                          | CodeQL | `semantic-release` |
-| ------------------------------------------------------------- | ------ | ------------------ |
-| [testing](https://github.com/percebus/github-actions-testing) | ✅\*   | ❌                 |
+| Name                                                            | CodeQL | `dependency-review` | `semantic-release` |
+| --------------------------------------------------------------- | ------ | ------------------- | ------------------ |
+| [`helm`](https://github.com/percebus/github-actions-helm)       | ✅\*   | ❔                  | ❌                 |
