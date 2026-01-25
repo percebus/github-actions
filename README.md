@@ -62,6 +62,12 @@ GitHub re-usable Actions &amp; Workflows
 
 #### Orchestration
 
-| Name                                                            | CodeQL | `dependency-review` | `semantic-release` |
-| --------------------------------------------------------------- | ------ | ------------------- | ------------------ |
-| [`helm`](https://github.com/percebus/github-actions-helm)       | ✅\*   | ❔                  | ❌                 |
+| Name                                                      | CodeQL | `dependency-review` | `semantic-release` |
+| --------------------------------------------------------- | ------ | ------------------- | ------------------ |
+| [`helm`](https://github.com/percebus/github-actions-helm) | ✅\*   | ❔                  | ❌                 |
+
+### Infrastructure as Code
+
+| Name                                                                | CodeQL | `dependency-review` | `semantic-release` |
+| ------------------------------------------------------------------- | ------ | ------------------- | ------------------ |
+| [`terraform`](https://github.com/percebus/github-actions-terraform) | ✅\*   | ❔                  | ❌                 |
