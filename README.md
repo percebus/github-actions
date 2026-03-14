@@ -71,3 +71,4 @@ GitHub re-usable Actions &amp; Workflows
 | Name                                                                | CodeQL | `dependency-review` | `semantic-release` |
 | ------------------------------------------------------------------- | ------ | ------------------- | ------------------ |
 | [`terraform`](https://github.com/percebus/github-actions-terraform) | ✅\*   | ❔                  | ❌                 |
+| [`tflint`](https://github.com/percebus/github-actions-tflint)       | ✅\*   | ❔                  | ❌                 |
