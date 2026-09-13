@@ -1,4 +1,4 @@
-name: Re-Usable workflow "A"
+name: Re-Usable workflow "C"
 
 on:
   workflow_call: # SRC: https://docs.github.com/en/actions/using-workflows/reusing-workflows
@@ -11,11 +11,15 @@ jobs:
       - name: echo
         run: | 
           pwd
-          echo "github-actions/.../workflows/reusable_a.yml"
+          echo "github-actions/.../workflows/reusable_c.yml"
       
       - name: job details
         run: |
           echo "job.workflow_sha: ${{ job.workflow_sha }}"
           echo "job.workflow_repository: ${{ job.workflow_repository }}"
 
-      - uses: percebus/github-actions/.github/actions/a@main
+      - name: checkout
+        uses: actions/checkout@v7
+
+      - uses: ./.github/actions/a
+  

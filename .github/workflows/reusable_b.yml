@@ -8,7 +8,5 @@ jobs:
   directly:
     uses: ./.github/workflows/reusable_a.yml
  
-  # TODO
-  # main:
-  #   uses: percebus/github-actions/.github/workflows/reusable_a.yml@main
- 
+  main:
+    uses: percebus/github-actions/.github/workflows/reusable_a.yml@main
